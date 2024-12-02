@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { FormsModule } from '@angular/forms';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 
-import { IGX_TABS_DIRECTIVES, IgxButtonDirective, IgxRippleDirective, IgxIconComponent, IGX_ACCORDION_DIRECTIVES, IGX_EXPANSION_PANEL_DIRECTIVES, IgxAvatarComponent, IgxCheckboxComponent, IGX_LIST_DIRECTIVES, IGX_CHIPS_DIRECTIVES } from '@infragistics/igniteui-angular';
+import { IGX_TABS_DIRECTIVES, IgxButtonDirective, IgxRippleDirective, IgxIconComponent, IGX_ACCORDION_DIRECTIVES, IGX_EXPANSION_PANEL_DIRECTIVES, IgxAvatarComponent, IgxCheckboxComponent, IGX_LIST_DIRECTIVES, IGX_CHIPS_DIRECTIVES } from 'igniteui-angular';
 import { AccountSampleComponent } from './account-sample.component';
 
 describe('AccountSampleComponent', () => {
